@@ -7,10 +7,9 @@ El objetivo es aplicar los conocimientos sobre **componentes de Astro**, **maque
 
 ## 📖 Descripción general
 
-### 🧩 Vista previa del proyecto
-Agrega aquí una **captura de pantalla** del resultado final de tu landing page.  
+En esta actividad desarrollarás la landing page de Loopstudios utilizando Astro y Tailwind CSS, con el objetivo de poner en práctica tus conocimientos en la creación de componentes, uso de estilos y diseño responsivo. 
 
-![Vista previa del proyecto](./public/images/Captura de pantalla 2026-03-12 085527.png)
+![Vista previa del proyecto](./public/images/captura-landing.png)
 
 ---
 
@@ -36,24 +35,9 @@ Lista las herramientas y tecnologías que utilizaste en el proyecto. Por ejemplo
 ---
 
 ### 💡 Lo que aprendí
-En esta sección describe brevemente **qué aprendiste o reforzaste** al desarrollar este proyecto.  
-Puedes incluir fragmentos de código o mencionar conceptos nuevos que aplicaste.
 
-Ejemplo:
-```html
-<header class="flex items-center justify-between p-6 text-white bg-black">
-  <img src="/logo.svg" alt="Loopstudios Logo" />
-</header>
-```
-```css
-.text-primary {
-  color: hsl(0, 0%, 100%);
-}
-```
-```js
-const toggleMenu = () => {
-  document.getElementById('menu').classList.toggle('hidden');
-}
+Que los frameworks basados en Astro, la carpeta public es invisible para las rutas finales (/images/... en lugar de /public/images/...).
+
 ```
 ---
 
@@ -61,9 +45,6 @@ const toggleMenu = () => {
 
 Menciona aquí los aspectos que podrías mejorar o seguir practicando en futuros proyectos.
 
-**Ejemplo:**
-- Mejorar el manejo del responsive en pantallas pequeñas.  
-- Implementar animaciones o transiciones suaves.  
 - Explorar el uso de variables de Tailwind personalizadas.  
 - Optimizar la estructura del proyecto y el uso de componentes.  
 
@@ -83,10 +64,10 @@ Incluye los enlaces, documentación o tutoriales que te ayudaron a completar est
 
 ### 👩‍💻 Autor
 
-- **Nombre completo:**  
-- **Carrera:**  
-- **Grupo:**  
-- **Correo institucional:**  
+- **Nombre completo: José Enrique Navarro Salas**  
+- **Carrera: Tecnologias de la informacion y las comunicaciones**  
+- **Grupo: 11-12**  
+- **Correo institucional:23151233@aguascalientesl.tecnm.mx**  
 
 ---
 
@@ -95,8 +76,8 @@ Incluye los enlaces, documentación o tutoriales que te ayudaron a completar est
 Comparte brevemente tu experiencia durante el desarrollo del proyecto.  
 Puedes responder a preguntas como:
 
-- ¿Qué fue lo más fácil o lo más difícil de realizar?  
-- ¿Qué parte disfrutaste más del desarrollo?  
-- ¿Qué conceptos nuevos aprendiste?  
-- ¿Cómo aplicarías lo aprendido en proyectos futuros?
+- ¿Qué fue lo más fácil o lo más difícil de realizar?  Lo mas facil estructurar el HTML con Astro y lo mas dificil el manejo de las imágenes responsivas
+- ¿Qué parte disfrutaste más del desarrollo? Ver cómo el menú móvil pasa de estar oculto a cubrir toda la pantalla con una transición suave 
+- ¿Qué conceptos nuevos aprendiste?  Aprendiste a usar bg-gradient-to-r (derecha) para móvil y bg-gradient-to-t (arriba) para desktop, adaptando la legibilidad del texto según la forma del contenedor.
+- ¿Cómo aplicarías lo aprendido en proyectos futuros? frameworks basados en Astro, la carpeta public es invisible para las rutas finales (/images/... en lugar de /public/images/...).
 
