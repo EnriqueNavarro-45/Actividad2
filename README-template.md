@@ -15,8 +15,8 @@ En esta actividad desarrollarás la landing page de Loopstudios utilizando Astro
 
 ### 🔗 Enlaces del proyecto
 
-- **Repositorio en GitHub:** [Agrega aquí la URL de tu repositorio](https://github.com/)
-- **Sitio desplegado (opcional):** [Agrega aquí la URL del proyecto desplegado, si usaste Vercel o Netlify](https://)
+- **Repositorio en GitHub:** [Agrega aquí la URL de tu repositorio](https://github.com/EnriqueNavarro-45/Actividad2)
+- **Sitio desplegado (opcional):** [Agrega aquí la URL del proyecto desplegado, si usaste Vercel o Netlify](https://actividad-2-eight.vercel.app)
 
 ---
 
