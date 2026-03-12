@@ -67,7 +67,7 @@ Incluye los enlaces, documentación o tutoriales que te ayudaron a completar est
 - **Nombre completo: José Enrique Navarro Salas**  
 - **Carrera: Tecnologias de la informacion y las comunicaciones**  
 - **Grupo: 11-12**  
-- **Correo institucional:23151233@aguascalientesl.tecnm.mx**  
+- **Correo institucional:23151233@aguascalientes.tecnm.mx**  
 
 ---
 
