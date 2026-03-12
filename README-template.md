@@ -9,7 +9,7 @@ El objetivo es aplicar los conocimientos sobre **componentes de Astro**, **maque
 
 En esta actividad desarrollarás la landing page de Loopstudios utilizando Astro y Tailwind CSS, con el objetivo de poner en práctica tus conocimientos en la creación de componentes, uso de estilos y diseño responsivo. 
 
-![Vista previa del proyecto](../public/images/captura-landing.png)
+![Vista previa del proyecto](./pale-point/public/images/captura-landing.png)
 
 ---
 
